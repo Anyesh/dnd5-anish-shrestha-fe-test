@@ -1,0 +1,5 @@
+export const GET_CLASS_LIST = "GET_CLASS_LIST";
+export const SET_LOADING = "SET_LOADING";
+export const GET_CLASS_DETAILS = "GET_CLASS_DETAILS";
+export const GET_SPELL = "GET_SPELL";
+export const GET_SPELL_DETAILS = "GET_SPELL_DETAILS";
