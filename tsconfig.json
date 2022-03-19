@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "allowSyntheticDefaultImports": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": [
+    "src",
+    "spec/spellList.spec.ts",
+    "spec/spell.spec.ts",
+    "spec/classList.test.ts",
+    "spec/class.spec.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "assets",
+    "dist",
+    "out",
+    ".babelrc",
+    "bundles",
+    "coverage",
+    "test/*"
+  ]
+}
