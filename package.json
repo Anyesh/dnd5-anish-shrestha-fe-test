@@ -19,7 +19,6 @@
     "autoprefixer": "^9",
     "axios": "^0.21.0",
     "craco": "^0.0.3",
-    "enzyme": "^3.11.0",
     "postcss": "^7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -58,7 +57,6 @@
     ]
   },
   "devDependencies": {
-    "@types/enzyme": "^3.10.11",
     "redux-mock-store": "^1.5.4"
   }
 }
