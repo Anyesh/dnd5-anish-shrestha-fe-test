@@ -1,0 +1,9 @@
+body {
+  background: #E8EBF3;
+  min-height: 100vh;
+  font: 400 16px "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
